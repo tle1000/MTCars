@@ -1,2 +1,2 @@
 # MTCars
-Linear Regression model on MTcars dataset 
+Data Visualization and Linear Regression model on MTcars dataset. 
